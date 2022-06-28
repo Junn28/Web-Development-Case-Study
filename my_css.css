@@ -1,0 +1,54 @@
+body {
+  background-color: #a2c4c9;
+}
+
+nav,
+footer {
+  background-color: #6c757d;
+}
+
+.jumbotron {
+  padding-top: 4rem;
+  background-color: #333;
+}
+
+hr {
+  width: 30%;
+  border: 4px #a2c4c9 solid;
+}
+
+#skill {
+  background-color: #333;
+}
+
+#about,
+#contact {
+  background-color: #fff;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.card {
+  border: none;
+}
+
+.bg-transparent img {
+  height: 200px;
+  width: 200px;
+}
+
+.bg-transparent img:hover {
+  background-color: #fff;
+  border-radius: 50%;
+}
+
+footer img.sosmed {
+  width: 20px;
+  height: 20px;
+}
